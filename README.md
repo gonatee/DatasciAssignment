@@ -6,6 +6,7 @@ These will be a folder to run an assignment
 ### Contributors
 
 * Gonatee Klanktong
+* Gonatee Klanktong
 
 ### Script walkthough
 * Setting a working folder to download (you need to have "UCI HAR Dataset" folder)
